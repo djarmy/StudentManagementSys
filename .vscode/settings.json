@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "dormitory.h": "c",
+        "system.h": "c",
+        "student.h": "c",
+        "state.h": "c",
+        "*.tcc": "c",
+        "context.h": "c",
+        "utils.h": "c",
+        "algorithm": "c",
+        "major.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "student_persist.h": "c",
+        "major_persist.h": "c",
+        "limits": "c",
+        "numeric": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}
