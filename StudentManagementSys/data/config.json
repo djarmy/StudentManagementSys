@@ -1,0 +1,6 @@
+{
+    "systemMode": "dev",
+    "maxStudents": 100,
+    "maxMajors": 20,
+    "enableLog": 1
+}
